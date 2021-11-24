@@ -1,2 +1,2 @@
 # AlgoritmosProcessoSeletivo
-Algoritmos desenvolvidos durante o processo seletivo utilizando JavaScript
+Algoritmos desenvolvidos durante um processo seletivo utilizando JavaScript
